@@ -1,9 +1,5 @@
 package Lesson5.online;
 
-import Lesson5.Employer;
-
-import java.util.Arrays;
-
 public class HomeWork5 {
 
     public static void main(String[] args) {
@@ -38,20 +34,4 @@ public class HomeWork5 {
             System.out.println(list[i].getFullInfo());
 
     }
-
-
-
-
-
     }
-
-
-
-
-//5. С помощью цикла вывести информацию только о сотрудниках старше 40 лет.
-    //public static boolean Age () {
-      //  if (Employer.age
-    //}
-
-
-

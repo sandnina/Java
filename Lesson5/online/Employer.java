@@ -1,4 +1,4 @@
-package Lesson5;
+package Lesson5.online;
 
     //1. Создать класс "Сотрудник" с полями: ФИО, должность, email, телефон, зарплата, возраст.
 
@@ -12,7 +12,7 @@ package Lesson5;
         private String email;
         private int phoneNumber;
         private int salary;
-        int age;
+        private int age;
 
         //2. Конструктор класса должен заполнять эти поля при создании объекта.
         //3. Внутри класса «Сотрудник» написать метод, который выводит информацию об объекте в консоль.
